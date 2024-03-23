@@ -1,3 +1,5 @@
+# ELK Stack
+
 Elasticsearch and Kibana stack running in Docker on Windows 11
 
 Installed and restarted
